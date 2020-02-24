@@ -1,3 +1,23 @@
+body {
+    background: #F4F4F4;
+}
 .conteiner {
     width: 1830px;
+    
+}
+.col-12 {
+    width: calc(calc(100% /12) *12);
+    text-align: center;
+}
+.col-4  {
+    width: calc(calc(100% / 12) *4);
+    display: inline;
+    text-align: center;
+    
+}
+img {
+    text-align: center;
+}
+p {
+    display: inline;
 }
