@@ -72,13 +72,13 @@ td {
     color: #313A59;
 }
 
-.colorh3 {
+.colorh3 a {
     font-family: Proxima Nova;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
     color: #F35D51;
-    margin: 0 auto;
+    margin-left: 36px;
 }
 
 a {
