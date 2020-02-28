@@ -1,0 +1,102 @@
+body {
+    background: #F4F4F4;
+}
+.conteiner {
+    width: 1200px;
+    margin: 0 auto;    
+}
+
+.row {
+display: flex;
+}
+
+.col-12 {
+    width: calc(calc(100% /12) *12);
+    text-align: center;
+}
+
+.col-4 {
+    width: calc(calc(100% /12) *4);
+    margin: 0 auto;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #F5F5F5;
+}
+
+h3 {
+    font-family: Proxima Nova;
+    font-size: 18px;
+    line-height: 22px;
+    color: #313A59;
+    margin: 0 auto;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.colums {
+    width: 270px;
+    height: 415px;
+    left: 1276px;
+    top: 104px;
+    background: #FFFFFF;
+    border-bottom: 5px solid #313A59;
+}
+
+table {
+    width: 245px;
+    margin-left: 15px;
+}
+
+td {
+    font-family: Proxima Nova;
+    font-size: 16px;
+    line-height: 19px;
+    color: #626262;
+}
+
+.secondtd {
+    font-family: Proxima Nova;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    color: #313A59;
+}
+
+.colorh3 {
+    font-family: Proxima Nova;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #F35D51;
+    margin: 0 auto;
+}
+
+a {
+    font-family: Proxima Nova;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+p {
+    background: #313A59;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 210px;
+    height: 30px;
+    padding-top: 10px;
+}
+
+.colums:hover p {
+    background:  #F35D51;
+}
+ 
+.colums:hover {
+    border-bottom: 5px solid#F35D51;
+}
