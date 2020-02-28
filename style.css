@@ -9,6 +9,13 @@ body {
 .row {
 display: flex;
 }
+h1 {
+    font-family: Proxima Nova;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #313A59;
+}
 
 .col-12 {
     width: calc(calc(100% /12) *12);
