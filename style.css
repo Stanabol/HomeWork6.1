@@ -88,6 +88,8 @@ a {
     text-align: center;
     color: #FFFFFF;
     text-decoration: none;
+    display: block;
+    height: 100%;
 }
 
 p {
