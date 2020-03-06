@@ -1,7 +1,7 @@
 body {
     background: #F4F4F4;
 }
-.conteiner {
+.container {
     width: 1200px;
     margin: 0 auto;    
 }
@@ -9,7 +9,7 @@ body {
 .row {
 display: flex;
 }
-h1 {
+.col-12 h1 {
     font-family: Proxima Nova;
     font-size: 36px;
     line-height: 44px;
@@ -70,6 +70,10 @@ td {
     line-height: 19px;
     text-align: right;
     color: #313A59;
+}
+
+.colorh3 {
+    margin: 0;
 }
 
 .colorh3 a {
